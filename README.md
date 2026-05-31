@@ -7,7 +7,7 @@ _Submitted for peer-review purposes._
 
 ## Overview
 
-The goal of this project is to provide a reproducible workflow for the distributional analysis of Greco-Latin terminological units across three languages. The analysis is based on data from the ELEMENTА GRECO-LATINA: DICTIONARIUM (2026).
+The goal of this project is to provide a reproducible workflow for the distributional analysis of Greco-Latin terminological units across three languages. The analysis is based on data from the ELEMENTА GRECO-LATINA: DICTIONARIUM (Azamatova, Suleimenova).
 
 The provided scripts generate:
 
